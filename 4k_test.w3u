@@ -1,0 +1,28 @@
+{
+  "name": "4k_test",
+  "author": "4k Playlist",
+  "image": "xxx",
+  "groups": [
+    {
+      "name": "4k[ทดสอบ]",
+      "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
+      "stations": [
+        {
+          "name": "01",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/4ktest/refs/heads/main/test1.m3u8"
+        },
+        {
+          "name": "02",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/4ktest/refs/heads/main/test2.m3u8"
+        },
+        {
+          "name": "03",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/4ktest/refs/heads/main/test3.m3u8"
+        }
+      ]
+    }
+  ]
+}
